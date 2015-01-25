@@ -12,6 +12,6 @@ The Zulu repository peel/zulu-openjdk-busybox provides multiple tagged images. T
 #Usage
 This Zulu repository supports multiple versions of OpenJDK-based Java SE JDKs. Zulu versions 8, 7, and 6 are compliant with Jav
 
-``
+```
 docker run -it --rm peel/zulu-openjdk-busybox:8 java -version
 ```
