@@ -1,0 +1,4 @@
+.git/
+spec/
+Gemfile
+Gemfile.lock
